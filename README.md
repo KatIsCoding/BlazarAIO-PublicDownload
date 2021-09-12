@@ -32,12 +32,13 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 ## Acknowledgments 
 
 - There is a bug affecting Nike's genner that slows down the account generation, we are working on this and the next immediate patch will be a hotfix for this problem.
+- Currently our app is using a big chunk of disk usage, we are working on a solution for this and we are sure once we have the AutoUpdater feature this will get better.
 
 ## How to use
 > We considered the information above this section as really important, please read it if you haven't
 
 ### Installation
-- Download the .zip file found in this repo
+- Download the .zip file found here: https://mega.nz/file/i9EWxJZJ
 - Right-click on it and click on unzip
 
 ### Usage
