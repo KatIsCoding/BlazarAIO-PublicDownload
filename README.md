@@ -1,5 +1,5 @@
 # Blazar V3 Public Download
-> Current Version 3.0.1b
+> Current Version 3.0.2b
 
 #### Hello everyone!! Dev here! After some time of working on this great project, we finally have a stable version which we decided to launch, we totally acknowledge that this version is far from being perfect, however, we will continue to work on this amazing project and continue making it even better.
 
