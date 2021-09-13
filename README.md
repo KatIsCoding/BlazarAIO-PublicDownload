@@ -1,5 +1,5 @@
 # Blazar V3 Public Download
-> Current Version 3.0.0b
+> Current Version 3.0.1b
 
 #### Hello everyone!! Dev here! After some time of working on this great project, we finally have a stable version which we decided to launch, we totally acknowledge that this version is far from being perfect, however, we will continue to work on this amazing project and continue making it even better.
 
@@ -44,4 +44,11 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 ### Usage
 - Inside the unzipped folder you'll find a BlazarAIO.exe file, execute and you are good to go
 - We consider our GUI really user friendly, that's why we invite you to explore everything the app has to offer, however, if you are not sure of how something works, let us know ;)
+
+
+
+### Changelog
+## v3.0.1b
+- Fixed "Only Nike" Bug
+> Next version features include AutoUpdater and Nike SMS mode
 
