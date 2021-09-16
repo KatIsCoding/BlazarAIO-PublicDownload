@@ -1,5 +1,5 @@
 # Blazar V3 Public Download
-> Current Version 3.0.1b
+> Current Version 3.1.0b
 
 #### Hello everyone!! Dev here! After some time of working on this great project, we finally have a stable version which we decided to launch, we totally acknowledge that this version is far from being perfect, however, we will continue to work on this amazing project and continue making it even better.
 
@@ -38,8 +38,22 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 > We considered the information above this section as really important, please read it if you haven't
 
 ### Installation
-- Download the .zip file found here: https://mega.nz/file/y5lSTJSR
+- Download the .zip file found here: https://mega.nz/file/Gl1FgYYZ#_P8sXnLgFLYNZwk-L7HHvZEjVEHduzDBRjWRCec1Uag
 - Right-click on it and click on unzip
+- Open the just unzipped folder
+- ##### Since v3.1.0b the AutoUpdates was introduced, that's why we will need you to do some extra steps in order to be able to use that feature
+- Right click the file named "install.ps1" and then left click the option `Run with PowerShell`
+- A blue window like the following should appear: (Ignore the contents of the following image since it may vary in your case)
+- ![img](https://media.discordapp.net/attachments/858836866823094272/887919689647407144/unknown.png)
+- In the best case scenario, no user input will be needed, however in some cases you will need to input "Y" when it prompts it **Be sure to always use capital letters(Y) for those**
+- After that, an admin rights window might appear, which you just need to click Yes
+- Once it finishes it should say: "Press Enter to continue..."
+
+** Notes: **
+
+- In case you skipped a step (For example, didn't use capital letters) please create a ticket with the message `AutoUpdates#551` and the dev directly will come to you in order to help with your problem
+- In case you already had git installed or want to install it by your own, you can skip this step, however we encourage you to install `Chocolatey` since it can be used in future updates
+- In case an error pop up shows once you open the app, please open a ticket with a screenshot of the error and the message `AutoUpdates#1` and the dev directly will come to you in order to help with your problem
 
 ### Usage
 - Inside the unzipped folder you'll find a BlazarAIO.exe file, execute and you are good to go
@@ -52,3 +66,6 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 - Fixed "Only Nike" Bug
 > Next version features include AutoUpdater and Nike SMS mode
 
+## v3.1.0b
+- Added AutoUpdater
+- Started the development of Nike SMS module
