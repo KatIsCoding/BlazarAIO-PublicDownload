@@ -69,3 +69,6 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 ## v3.1.0b
 - Added AutoUpdater
 - Started the development of Nike SMS module
+
+## v3.1.1b
+- Added Head toggle option
