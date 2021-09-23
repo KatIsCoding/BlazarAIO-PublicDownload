@@ -1,5 +1,5 @@
 # Blazar V3 Public Download
-> Current Version 3.1.0b
+> Current Version 3.3.0b
 
 #### Hello everyone!! Dev here! After some time of working on this great project, we finally have a stable version which we decided to launch, we totally acknowledge that this version is far from being perfect, however, we will continue to work on this amazing project and continue making it even better.
 
@@ -38,10 +38,8 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 > We considered the information above this section as really important, please read it if you haven't
 
 ### Installation
-- Download the .zip file found here: https://mega.nz/file/Gl1FgYYZ#_P8sXnLgFLYNZwk-L7HHvZEjVEHduzDBRjWRCec1Uag
-- Right-click on it and click on unzip
-- Open the just unzipped folder
-- ##### Since v3.1.0b the AutoUpdates was introduced, that's why we will need you to do some extra steps in order to be able to use that feature
+##### Since v3.1.0b the AutoUpdates were introduced, that's why we will need you to do some extra steps in order to be able to use that feature
+- Download [this file](https://cdn.discordapp.com/attachments/637141086334222369/890399171197145118/install.ps1) and move it to the folder were you want to install BlazarAIO
 - Right click the file named "install.ps1" and then left click the option `Run with PowerShell`
 - A blue window like the following should appear: (Ignore the contents of the following image since it may vary in your case)
 - ![img](https://media.discordapp.net/attachments/858836866823094272/887919689647407144/unknown.png)
@@ -49,7 +47,7 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 - After that, an admin rights window might appear, which you just need to click Yes
 - Once it finishes it should say: "Press Enter to continue..."
 
-** Notes: **
+**Notes:**
 
 - In case you skipped a step (For example, didn't use capital letters) please create a ticket with the message `AutoUpdates#551` and the dev directly will come to you in order to help with your problem
 - In case you already had git installed or want to install it by your own, you can skip this step, however we encourage you to install `Chocolatey` since it can be used in future updates
@@ -72,3 +70,10 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 
 ## v3.1.1b
 - Added Head toggle option
+
+## v3.2.2b
+- Fixed False Positives in Nike Module
+- Implemented the ability to add proxies using breaklines
+
+## v3.3.0b
+- Invite only beta started!!
