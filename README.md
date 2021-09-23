@@ -5,7 +5,7 @@
 
 ## Debugging
 
-#### During alpha testing we didn't find any important bug, however, if you happen to find one, here is a quick guide on how to report it:
+#### If you happen to find one bug, here is a quick guide on how to report it:
 - Open a Ticket in our Discord Group
 - Give a small description of what you were doing before the bug happened
 - Open the app files
@@ -17,10 +17,10 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 
 ## Next features
 
-- AutoUpdater
-> We know how frustrating is to always be downloading this really big file every time we want to get the newest version, that's why our first priority is to make an AutoUpdater and AutoInstaller that will do all this boring work for you in the most efficient way.
+- AutoUpdater✔️
+> We know how frustrating is to always be downloading this really big file every time we want to get the newest version, that's why our first priority is to make an AutoUpdater and AutoInstaller that will do all this boring work for you in the most efficient way. 
 
-- More Sites!!
+- More Sites!!➖
 > For now we have a kinda small list of available services compared to past versions, this is because we have been rebuilding all our modules so we can have that extra speed we know you like, however, this task happens to be really complex and slow (especially for those difficult sites), the idea we had to start implementing more modules is to make polls where you can participate to help us decide which module should be added next time, this way we can know for sure we are in the right direction.
 
 - Make Dashboard useful
