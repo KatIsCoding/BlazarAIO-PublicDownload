@@ -1,5 +1,5 @@
 # Blazar V3 Public Download
-> Current Version 3.3.0b
+> Current Version 3.4.0b
 
 #### Hello everyone!! Dev here! After some time of working on this great project, we finally have a stable version which we decided to launch, we totally acknowledge that this version is far from being perfect, however, we will continue to work on this amazing project and continue making it even better.
 
@@ -77,3 +77,10 @@ After this, we will do all the hard work and try to diagnose your bug, if we hap
 
 ## v3.3.0b
 - Invite only beta started!!
+
+## v3.4.0b
+- Added Walmart to available services
+- Added NIKE SMS to available services (Only RU)
+- Fixed Settings bug of not showing certain keys after restart
+- Amazon Module Currently Down, it looks like SMSRU is having problems and we are looking forward to implement OnlineSIM to this service as soon as possible, that way users can choose between SMSRU and OnlineSIM
+- SMSRU on NIKESMS development started
